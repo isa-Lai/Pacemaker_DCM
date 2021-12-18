@@ -14,6 +14,17 @@ Run with original code
 3. Run `main.py` (cd to this folder and run `python main.py`)
 
 ## Release 
+Download the ZIP at [release](https://github.com/isa-Lai/Pacemaker_DCM/releases/tag/v1.0)
+
+### V1.0
+For version V1.0, you will need a pacemaker device to connected to PC for all functions. Since it may not possible to get a specific model for this DCM. We provided the beta version for device simulation.
+
+### Beta
+User are allows to test some functions using the test button layout at the top-right conor.
+Note: there is some function in v1.0 not yet added into beta version like
+- Logout and register completed will not auto remove previous password.
+- User cannot load history data back to DCM
+- Setting for pacemaker is not yet updated. 
 
 ## Feature
 - User Interface
